@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moethukha
 - 👀 I’m interested in ML.
-- 🌱 I’m currently learning.
+- 🌱 I’m currently learning Data Warehousing.
 - 💞️ I’m looking to collaborate on ML projects.
 - 📫 How to reach me: https://www.linkedin.com/in/moe-thu-kha/
 
